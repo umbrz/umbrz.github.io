@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Pre-Doctoral Fellow at the <a href='https://cerai.iitm.ac.in/'>Centre for Responsible AI, IIT Madras</a>. _Every second counts._
+subtitle: Pre-Doctoral Fellow at the <a href='https://cerai.iitm.ac.in/'>Centre for Responsible AI, IIT Madras</a>. <em>Every second counts.</em>
 
 profile:
   align: left
