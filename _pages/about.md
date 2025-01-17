@@ -6,7 +6,7 @@ subtitle: Pre-Doctoral Fellow at the <a href='https://cerai.iitm.ac.in/'>Centre 
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: me-w-pep.jpg
   image_circular: true # crops the image to make it circular
   more_info:   <em>Every second counts.</em> # >
     # <p>555 your office number</p>
