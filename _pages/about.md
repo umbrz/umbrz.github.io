@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: Master's (MASc) student at the University of Waterloo. 
-
+latest_posts: false
 profile:
   align: left
   image: prof_pic.jpg
@@ -26,6 +26,6 @@ I’m a grad student at the Socially Embedded Machine Intelligence (SEMI) Lab at
 
 Through answering these questions I hope to achieve my goal of helping build equitable and reliable systems, and to create sustainableand inclusive policies that benefit the greater good.
 
-In a previous life, I wore many hats—musician, composer, consultant, and policy practitioner—before finding my way into the world of machine learning research.
+In a previous life, I wore many hats—musician, composer, consultant, and policy practitioner—before finding my way into the world of machine learning research. You can find a few artifacts of that time on the [extras](/extras/) page
 
 
