@@ -20,6 +20,6 @@ social: false # includes social icons at the bottom of the page
 
 Hiya!
 
-I’m an ML researcher with interests spanning Causality, Representation Learning, Algorithmic Auditing, and AI Policy. My goal is to help build equitable and reliable systems. I’m particularly passionate about exploring the interaction between society and technology and aim to create sustainable, inclusive policies that benefit the greater good.
+I’m a grad student at  ML researcher with interests spanning Causality, Representation Learning, Algorithmic Auditing, and AI Policy. My goal is to help build equitable and reliable systems. I’m particularly passionate about exploring the interaction between society and technology and aim to create sustainable, inclusive policies that benefit the greater good.
 
-Currently, I’m focused on tackling fairness challenges through robust representation learning. You can find my thoughts and other musings on my [Substack](https://substack.com/profile/176371536-ambreesh-parthasarathy?r=2x095c&utm_campaign=profile&utm_medium=profile-page).
+Currently, I’m focused on tackling fairness challenges through robust representation learning. You can find my thoughts and other musings on my [substack](https://substack.com/profile/176371536-ambreesh-parthasarathy?r=2x095c&utm_campaign=profile&utm_medium=profile-page).
