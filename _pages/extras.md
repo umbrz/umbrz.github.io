@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Extras
+title: extras
 permalink: /extras/
 nav: true
 nav_order: 3
@@ -24,20 +24,12 @@ Music has always been a passion of mine, serving as both a creative outlet and a
   </iframe>
 </div>
 
-*Replace `YOUR_VIDEO_ID` with your actual YouTube video ID*
 
 ### SoundCloud
 
-<iframe 
-  width="100%" 
-  height="300" 
-  scrolling="no" 
-  frameborder="no" 
-  allow="autoplay" 
-  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/YOUR_SOUNDCLOUD_USER_ID&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true">
-</iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1290849727&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/umbrz" title="umbrz" target="_blank" style="color: #cccccc; text-decoration: none;">umbrz</a> · <a href="https://soundcloud.com/umbrz/pachai-nirame-redo" title="Pachai Nirame redux" target="_blank" style="color: #cccccc; text-decoration: none;">Pachai Nirame redux</a></div>
 
-*Replace `YOUR_SOUNDCLOUD_USER_ID` with your actual SoundCloud user ID*
+
 
 ## Writing
 
