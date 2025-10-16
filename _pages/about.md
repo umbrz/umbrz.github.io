@@ -26,7 +26,7 @@ At present, my research is motivated by the following questions:
   1. How do we identify, understand and mitigate any novel harms that might arise from the rapid adoption of AI technologies by institutions and individuals en-masse?
   2. Identifying and understanding the underlying structure of decision making in AI systems. Do these insights help us improve models (in the context of safety, reasoning, planning etc)? Could we leverage these abstractions to better evaluate systems?
 
-Through answering these questions I hope to achieve my goal of helping build equitable and reliable systems, and to create sustainableand inclusive policies that benefit the greater good.
+Through answering these questions I hope to achieve my goal of helping build equitable and reliable systems, and to create sustainable and inclusive policies that benefit the greater good.
 
 In a previous life, I wore many hats—musician, composer, consultant, and policy practitioner—before finding my way into the world of machine learning research. You can find a few artifacts of that time on the [extras](/extras/) page
 
