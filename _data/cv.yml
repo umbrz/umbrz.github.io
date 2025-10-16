@@ -2,16 +2,16 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Ambreesh Parthasarathy
     - name: Languages
-      value: English, German
+      value: English, Tamil, Hindi
+    - name: Email
+      value: ambreesh.parthasarathy@uwaterloo.ca
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: Masters of Applied Sciences, (MASc) in Electrical and Computer Engineering _Ongoing_
       institution: University of Zurich, Zurich, Switzerland
       year: 1905
       description:
